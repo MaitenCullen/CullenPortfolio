@@ -1,0 +1,37 @@
+{
+    "header":{
+        "HOLA": "Hi! I'm",
+        "COTIDIANO": "coding everyday experience"
+    },
+    "skills":{
+        "HABILIDADES":"Technical skills"
+    },
+    "navbar":{
+        "SKILLS":"Technologies",
+        "PROJECT":"Projects",
+        "CONTACT":"Contact"
+    },
+    "project":{
+        "PROYECTOS":"Some Projects"
+    },
+    "proyectos":{
+        "BETTY": "Stop! only for people over 18 years old",
+        "LAPRINSUMOS":"3D printing web catalog",
+        "ITENSENO":"IT Tutorials. We share knowledge.",
+        "SANTA-FE-MAS":"Santa Fe Mas Provincial Program Project",
+        "AUTOESCUELA":"Web App built in Vanilla JS",
+        "UNLIMITED":"Native Mobile App. If you don't want to download it you can look at this cute Gif",
+        "CONTRATA":"Web App where you can request different trades",
+        "MONARQUIA-PERRUNA":"Web for sale pet accessories",
+        "OBERTEC-INDUSTRIAS":"Laboratory, Industrial, Education Equipment",
+        "FIDEL-CONSTRUCCIONES":"Civil Engineering constructions"
+    },
+    "contacto":{
+        "CONTACTO":"Contact",
+        "INPUT-NOMBRE":"Full Name",
+        "INPUT-MAIL":"exampleEmail@example.com",
+        "INPUT-TEXTO":"Leave your inquiry here",
+        "INPUT-ENVIAR":"Send",
+        "TEXT-CONFIRMACION":"We will be in touch!"
+    }
+}

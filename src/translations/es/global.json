@@ -1,0 +1,37 @@
+{
+    "header":{
+        "HOLA": "Hola! soy",
+        "COTIDIANO": "Volviendo codigo el cotidiano."
+    },
+    "skills":{
+        "HABILIDADES":"Tecnologías"
+    },
+    "navbar":{
+        "SKILLS":"Tecnologías",
+        "PROJECT":"Proyectos",
+        "CONTACT":"Contacto"
+    },
+    "project":{
+        "PROYECTOS":"Algunos Proyectos"
+    },
+    "proyectos":{
+        "BETTY": "Stop! solo para mayores de 18 años",
+        "LAPRINSUMOS":"Web catalogo de impresión 3D",
+        "ITENSENO":"Tutorias en IT. Compartimos el conocimiento.",
+        "SANTA-FE-MAS":"Proyecto programa Provincial Santa Fe Mas",
+        "AUTOESCUELA":"Web App construida en Vainilla JS",
+        "UNLIMITED":"App Mobile Nativa. Para no descargarla podes mirar este lindo Gif",
+        "CONTRATA":"Web App donde solicitar distintos oficios",
+        "MONARQUIA-PERRUNA":"Web Venta accesorios para mascotas",
+        "OBERTEC-INDUSTRIAS":"Equipamiento para Laboratorios, Industrias, Educación",
+        "FIDEL-CONSTRUCCIONES":"Ingenieria Civil construcciones"
+    },
+    "contacto":{
+        "CONTACTO":"Contacto",
+        "INPUT-NOMBRE":"Nombre completo",
+        "INPUT-MAIL":"cualestumail@example.com",
+        "INPUT-TEXTO":"Deje su consulta acá",
+        "INPUT-ENVIAR":"Enviar",
+        "TEXT-CONFIRMACION":"En breve nos vamos a estar contactando!"
+    }
+}
