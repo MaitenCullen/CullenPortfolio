@@ -9,7 +9,6 @@ export const Skills = () => {
     useEffect (() => {
         getSkills()
         .then((resp) => {
-            console.log(resp, "soy las skilss")
             setSkills(resp);
          })
     },[]);

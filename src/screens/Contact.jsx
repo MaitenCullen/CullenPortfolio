@@ -27,7 +27,7 @@ import { useTranslation } from 'react-i18next';
     })
   }
 
-  console.log(contacto)
+
 const contactDates = (event) => {
   event.preventDefault()
   const contactUser = collection(db, "usuarios")

@@ -13,7 +13,6 @@ export const CardProjects = () => {
 
   useEffect(() => {
     getAllProjects().then((resp) => {
-      console.log(resp, "soy las skilss");
       setProjects(resp);
     });
 
