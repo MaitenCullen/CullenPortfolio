@@ -10,10 +10,6 @@ import { GoLocation } from "react-icons/go";
 import { useTranslation } from 'react-i18next';
  
 
-
-
-
-
  export const Contact = () => {
   const [t, i18n] = useTranslation("global");
   const theme = ''
@@ -55,11 +51,11 @@ const contactDates = (event) => {
             <input type="text" className="formControl" id="name" placeholder={t('contacto.INPUT-NOMBRE')} name='nombre' onChange={userContact} required/>
           </div>
           <div>
-            <input className="formControl" id="email" input type="email"
+            <input className="formControl" id="email"  type="email"
              pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}" placeholder={t('contacto.INPUT-MAIL')} name='mail' onChange={userContact} required/>
           </div>
           <div>
-          <textarea className="formControl" textarea name="consulta" rows="5" cols="28" onChange={userContact} placeholder={t('contacto.INPUT-TEXTO')} required></textarea>
+          <textarea className="formControl"  name="consulta" rows="5" cols="28" onChange={userContact} placeholder={t('contacto.INPUT-TEXTO')} required></textarea>
           </div>
         <button className="formButton" id="submit" type="submit" value="Enviar">
           <div className="alt-formButton">
