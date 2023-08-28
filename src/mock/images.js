@@ -27,11 +27,16 @@ const Skills = [{
 },
 {
     id:7,
+    tecnologia:"Angular",
+    imagen:"./img/angular.png"
+},
+{
+    id:8,
     tecnologia:"Bootstrap",
     imagen:"./img/bootstrap1.png"
 },
 {
-    id:8,
+    id:9,
     tecnologia:"Foundation",
     imagen:"./img/foundation.png"
 },
