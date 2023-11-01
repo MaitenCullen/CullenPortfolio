@@ -6,6 +6,7 @@ import { IoCarSportOutline, IoHammerOutline } from "react-icons/io5";
 import { FaDog } from "react-icons/fa";
 import { ImLab } from "react-icons/im";
 import { RiBuilding2Line } from "react-icons/ri";
+import { GiMedicalPackAlt } from "react-icons/gi";
 import React from "react";
 
 
@@ -100,7 +101,16 @@ const project = [
          link:'https://fidel-construcciones.vercel.app/',
          image:'./fidel.png',
          icon:<RiBuilding2Line/>  
-     } 
+     },
+     {
+        id:10,
+        project:'9 de julio',
+        description:'Diagnostico médico y laboral 9 de julio',
+        technologies:'Angular, Typescript, Scss, Node js',
+        link:'https://diagnostico9dejulio.com.ar/',
+        image:'./9julio.png',
+        icon:<GiMedicalPackAlt/>  
+    } 
 ]
 
 
