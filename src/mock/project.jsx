@@ -47,15 +47,15 @@ const project = [
         image:'./santaFemas.jpg',
         icon:<MdOutlineEmojiPeople/>
     },
-    {
-        id:4,
-        project:'Autosescuela',
-        description:'AUTOESCUELA',
-        technologies:'Javascript, HTML, SASS',
-        link:'https://autoescuela.vercel.app/',
-        image:'./autoEscuela.png',
-        icon:<IoCarSportOutline/>
-    },
+    // {
+    //     id:4,
+    //     project:'Autosescuela',
+    //     description:'AUTOESCUELA',
+    //     technologies:'Javascript, HTML, SASS',
+    //     link:'https://autoescuela.vercel.app/',
+    //     image:'./autoEscuela.png',
+    //     icon:<IoCarSportOutline/>
+    // },
     {
         id:5,
         project:'UnLimited',
@@ -93,15 +93,15 @@ const project = [
         image:'./obertec.png',
         icon:<ImLab/>  
     } ,
-     {
-         id:9,
-         project:'Fidel Construcciones',
-         description:'FIDEL-CONSTRUCCIONES',
-         technologies:'HTML, CSS, Styled Component, Javascript, React Js',
-         link:'https://fidel-construcciones.vercel.app/',
-         image:'./fidel.png',
-         icon:<RiBuilding2Line/>  
-     },
+    //  {
+    //      id:9,
+    //      project:'Fidel Construcciones',
+    //      description:'FIDEL-CONSTRUCCIONES',
+    //      technologies:'HTML, CSS, Styled Component, Javascript, React Js',
+    //      link:'https://fidel-construcciones.vercel.app/',
+    //      image:'./fidel.png',
+    //      icon:<RiBuilding2Line/>  
+    //  },
      {
         id:10,
         project:'9 de julio',
